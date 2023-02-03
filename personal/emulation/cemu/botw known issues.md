@@ -1,0 +1,1 @@
+https://wiki.cemu.info/wiki/The_Legend_of_Zelda:_Breath_of_the_Wild

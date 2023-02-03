@@ -13,13 +13,154 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "personal/emulation/cemu/wii-u-keys-1.md",
+                "file": "personal/things to do.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4856b1b7fca958b3",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "830f98b40cc98144",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "personal/emulation/texture packs.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7bf04df4b74ef2f9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "personal/things to do.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8157e3d280eb25bc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "personal/revanced guide.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "32417c71c9fa788a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "personal/things to do.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9835e4c22ec170ea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "personal/piracy/switch rom downloads.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "402b02d7b5f2c2c1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "personal/piracy/wii u rom downloads.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "90c9b4f5ce8da97a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "personal/emulation/cemu/botw mods.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "eb11904f9e547622",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "personal/emulation/cemu/botw known issues.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0453e234436cf936",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "personal/emulation/texture packs.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "80df3cb965765e1d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "personal/things to do.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ba9c78c8a15e321b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IT/windows 11/Using Windows 11 in KVM.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -85,7 +226,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "personal/emulation/cemu/wii-u-keys-1.md",
+                "file": "IT/windows 11/Using Windows 11 in KVM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +243,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "personal/emulation/cemu/wii-u-keys-1.md",
+                "file": "IT/windows 11/Using Windows 11 in KVM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +266,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "personal/emulation/cemu/wii-u-keys-1.md"
+                "file": "IT/windows 11/Using Windows 11 in KVM.md"
               }
             }
           }
@@ -146,15 +287,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b17b88a5d8288296",
+  "active": "ba9c78c8a15e321b",
   "lastOpenFiles": [
-    "personal/emulation/switch.md",
     "personal/things to do.md",
-    "personal/emulation/cemu/wii-u-keys-1.md",
-    "personal/emulation/cemu/wii-u-keys-2.md",
-    "personal/Untitled 1.md",
-    "personal.md",
-    "PERSONAL.md",
-    "markdown.md"
+    "personal/emulation/texture packs/metroid prime.md",
+    "personal/emulation/texture packs.md",
+    "personal/emulation/texture packs 1.md",
+    "IT/windows 11/uupdump.md",
+    "personal/emulation/cemu/botw known issues.md",
+    "personal/emulation/cemu/botw mods.md",
+    "personal/piracy/wii u rom downloads.md",
+    "personal/piracy/switch rom downloads.md",
+    "personal/piracy/software hack sites.md"
   ]
 }
