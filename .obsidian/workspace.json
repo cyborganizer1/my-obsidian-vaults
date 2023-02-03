@@ -153,7 +153,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IT/windows 11/Using Windows 11 in KVM.md",
+                "file": "personal/piracy/wii u rom downloads.md",
                 "mode": "source",
                 "source": false
               }
@@ -226,7 +226,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IT/windows 11/Using Windows 11 in KVM.md",
+                "file": "personal/piracy/wii u rom downloads.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -243,7 +243,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IT/windows 11/Using Windows 11 in KVM.md",
+                "file": "personal/piracy/wii u rom downloads.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -266,7 +266,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IT/windows 11/Using Windows 11 in KVM.md"
+                "file": "personal/piracy/wii u rom downloads.md"
               }
             }
           }
@@ -289,6 +289,7 @@
   },
   "active": "ba9c78c8a15e321b",
   "lastOpenFiles": [
+    "IT/windows 11/Using Windows 11 in KVM.md",
     "personal/things to do.md",
     "personal/emulation/texture packs/metroid prime.md",
     "personal/emulation/texture packs.md",
@@ -297,7 +298,6 @@
     "personal/emulation/cemu/botw known issues.md",
     "personal/emulation/cemu/botw mods.md",
     "personal/piracy/wii u rom downloads.md",
-    "personal/piracy/switch rom downloads.md",
-    "personal/piracy/software hack sites.md"
+    "personal/piracy/switch rom downloads.md"
   ]
 }
